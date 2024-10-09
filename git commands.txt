@@ -1,0 +1,8 @@
+
+git init   // to be done everytime you create a new repositorygit
+
+git add .
+
+git commit -m "describe here what you do"
+
+git push
